@@ -2,8 +2,8 @@
 Exploring adoption trends, manufacturer share, geographic distribution, and policy implications across the U.S. EV market.
 
 ## Dashboard
-### Battery Electric Vehicles dominate the market, representing nearly four out of every five EVs registered 4 a clear signal of 
-consumer and policy preference toward full electrification.
+### Battery Electric Vehicles dominate the market, representing nearly four out of every five EVs registered 4 a clear signal of consumer and policy preference toward full electrification.
+
 <img width="1581" height="790" alt="EV datajpeg" src="https://github.com/user-attachments/assets/23cbcff7-0dad-4a05-9f56-f2216c0d8f26" />
 
 ## Key Insights
