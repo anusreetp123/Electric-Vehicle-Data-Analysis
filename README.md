@@ -26,3 +26,7 @@ Registrations peaked at ~37K in 2023, with strong year-over-year growth since
 
 State mandates, federal tax credits, and infrastructure investment are directly 
 correlated with regional adoption rates 4 particularly in washington and the West.
+
+## Conclusion
+The U.S. EV market is expanding rapidly, led by Tesla and concentrated in Western states. Sustaining this momentum requires cleaner data, broader geographic 
+adoption, and policy frameworks that incentivize both manufacturers and consumers. Closing the CAFV data gap is the most immediate analytical priority.
